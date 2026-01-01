@@ -7,7 +7,13 @@
 		"source.fixAll.stylelint": "explicit"
 	},
 	// 配置stylelint检查的文件类型范围
-	"stylelint.validate": ["css", "less", "postcss", "scss", "sass"],
+	"stylelint.validate": [
+		"css",
+		"less",
+		"postcss",
+		"scss",
+		"sass"
+	],
 	"files.eol": "\n",
 	"cSpell.words": [
 		"antd",
@@ -45,5 +51,11 @@
 		"truetype",
 		"zhongyingwen",
 		"zhuti"
-	]
+	],
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#2F2D27",
+		"titleBar.activeBackground": "#423F36",
+		"titleBar.activeForeground": "#FBFAFA"
+	},
+	"i18n-ally.localesPaths": []
 }
